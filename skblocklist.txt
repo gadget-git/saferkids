@@ -8,4 +8,5 @@
 #
 127.0.0.1	m.reddit.com
 127.0.0.1	thehun.com
-# Number of entries: 2
+127.0.0.1	blockingtest.com
+# Number of entries: 3
