@@ -1,8 +1,8 @@
 ################################################################
-# SaferKids Host File                                          #
-# Last updated: 2026-04-02                      			   #
+# SaferKids Blocklist File                                     #
+# Last updated: 2026-04-02                             			   #
 #                                                              #
-# 												               #
+# 												                                     #
 # For questions please contact saferkidswifi.com.au            #
 ################################################################
 #
