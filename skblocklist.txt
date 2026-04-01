@@ -1,0 +1,11 @@
+################################################################
+# SaferKids Host File                                          #
+# Last updated: 2026-04-02                      			   #
+#                                                              #
+# 												               #
+# For questions please contact saferkidswifi.com.au            #
+################################################################
+#
+127.0.0.1	m.reddit.com
+127.0.0.1	thehun.com
+# Number of entries: 2
