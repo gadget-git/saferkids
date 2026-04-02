@@ -5,7 +5,6 @@
 # 												                                     #
 # For questions please contact saferkidswifi.com.au            #
 ################################################################
-#
 127.0.0.1	m.reddit.com
 127.0.0.1	thehun.com
 127.0.0.1	blockingtest.com
