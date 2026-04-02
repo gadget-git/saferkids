@@ -1,8 +1,8 @@
 ################################################################
 # SaferKids Blocklist File                                     #
-# Last updated: 2026-04-02                             			   #
+# Last updated: 2026-04-02                                     #
 #                                                              #
-# 												                                     #
+#                                                              #
 # For questions please contact saferkidswifi.com.au            #
 ################################################################
 127.0.0.1	m.reddit.com
